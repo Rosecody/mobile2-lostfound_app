@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78290120570",
+    "project_id": "kan-project-ac972",
+    "storage_bucket": "kan-project-ac972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78290120570:android:a2e5c9634d7bad8f7bb0c3",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAgywdpAz-6rdIAG40He9leaCfIU2XOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
