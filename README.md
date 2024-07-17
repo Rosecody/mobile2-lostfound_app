@@ -1,6 +1,6 @@
-# myapp
+# KAN - Lost Found
 
-A new Flutter project.
+Mobile 2 final project with Firebase
 
 ## Getting Started
 
